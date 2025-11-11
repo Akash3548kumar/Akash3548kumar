@@ -19,30 +19,7 @@ I’m always eager to learn new technologies, collaborate on real-world projects
 - Frontend Development (React.js, HTML, CSS, JavaScript)  
 - Backend Integration (Node.js, REST APIs, Databases)  
 - Full-Stack Web Development  
-- Problem-Solving and Performance Optimization  
-
----
-
-## 🚀 Projects  
-
-### 🧩 Loan Management System  
-Developed a full-stack web application to automate loan processing and management.  
-Implemented user authentication, loan request tracking, and admin dashboards for performance monitoring.  
-**Tech Stack:** React.js, Node.js, MySQL, MongoDB, RESTful APIs  
-
----
-
-### 🖼️ Image Search Application  
-Built a responsive web app that allows users to search and view images in real time using external APIs.  
-Integrated custom filters for faster image loading and smoother user experience.  
-**Tech Stack:** React.js, JavaScript, API Integration, Responsive Web Design  
-
----
-
-### ☁️ Weather Forecasting Application  
-Created a web app to display live weather data for multiple cities using the OpenWeatherMap API.  
-Implemented real-time updates and a user-friendly interface for checking accurate weather details.  
-**Tech Stack:** React.js, HTML, CSS, JavaScript, OpenWeatherMap API  
+- Problem-Solving and Performance Optimization
 
 ---
 
